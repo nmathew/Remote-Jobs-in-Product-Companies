@@ -1,4 +1,4 @@
-# remote-jobs-product-companies
+# Remote Jobs in Product Companies
 List of Product Companies offering Jobs
 
 * [Loodse](https://www.loodse.com/)
