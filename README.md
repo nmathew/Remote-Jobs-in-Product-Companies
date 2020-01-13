@@ -1,5 +1,5 @@
 # Remote Systems Jobs
-List of Product Companies offering Jobs
+List of Product Companies offering Systems Jobs
 
 * [Loodse](https://www.loodse.com/)
 * [storj.io](https://storj.io/)
